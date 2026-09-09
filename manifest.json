@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Ludo Zorvia",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Ludo Zorvia",
+  "start_url": "/",
+  "theme_color": "#121212",
+  "id": "/ludo-zorvia",
+  "description": "A professional multiplayer Ludo game for Android and Web",
+  "lang": "en",
+  "categories": [
+    "games"
+  ]
+}
