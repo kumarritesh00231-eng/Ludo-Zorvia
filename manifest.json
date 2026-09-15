@@ -13,5 +13,18 @@
   "lang": "en",
   "categories": [
     "games"
+  ],
+  "icons": [
+    {
+      "src": "ludo_zorvia_icon_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "ludo_zorvia_icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
+  
